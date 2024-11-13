@@ -2,7 +2,6 @@
 
 - 🎓 &nbsp; Computer Science Diploma at Seneca College of Applied Arts and Technology.
 - 🤔 &nbsp; I like learning and exploring new technologies to develop better solutions.
-- 🌱 &nbsp; I'm currently learning JavaScript and ReactJS.
 - 🌟 &nbsp; Pursuing Astrology as a hobby.
 
 <br />
